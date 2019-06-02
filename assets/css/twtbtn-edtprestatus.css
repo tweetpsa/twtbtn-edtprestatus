@@ -1,0 +1,30 @@
+/*!
+=========================================================
+* Editable precomposed tweet button by twtpsa
+=========================================================
+
+* Demo Page: https://tweetpsa.github.io/sewa
+* Copyright 2019 TWTPSA (https://www.twitter.com/twtpsa)
+* Licensed under MIT (https://github.com/tweetpsa/twtbtn-edtprestatus/blob/master/LICENSE)
+* Github repo (https://github.com/tweetpsa/twtbtn-edtprestatus)
+*/
+
+.tweet {
+background-color: #1da1f2;
+border: 1px solid #1da1f2;
+color: #fff;
+padding: 0 13px;
+line-height: 28px;
+border-radius: 4px;
+cursor: pointer;
+}
+.tweet:hover {
+  color: #fff;
+  background-color: #1b95e0;
+  border: 1px solid #1b95e0;
+}
+.tweet:focus {
+    color: #fff;
+    background-color: #1b95e0;
+    border: 1px solid #1b95e0;
+  }
