@@ -5,7 +5,7 @@ A tweet button with precomposed and editable by users, status/message.
 
 [Bootstrap CSS](https://getbootstrap.com/)
 
-## LICENSE
+## License
 
 Copyright 2019 TWTPSA
 
