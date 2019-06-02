@@ -5,7 +5,7 @@ A tweet button with precomposed and editable by users, status/message.
 
 ## Library
 
-[Bootstrap CSS](https://getbootstrap.com/)
+[Bootstrap CSS](https://getbootstrap.com/)  
 [Font Awesome](https://fontawesome.com/)
 
 ## Option
