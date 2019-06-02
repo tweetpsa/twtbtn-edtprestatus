@@ -1,3 +1,5 @@
+![example](https://i.postimg.cc/DzHCsW-S5/twtbtn-edtprestatus.png)
+
 # twtbtn-edtprestatus
 A tweet button with precomposed and editable by users, status/message.
 
