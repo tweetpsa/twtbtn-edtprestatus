@@ -12,6 +12,11 @@ A tweet button with precomposed and editable by users, status/message.
 [Bootstrap CSS](https://getbootstrap.com/)  
 [Font Awesome](https://fontawesome.com/)
 
+## Why?
+
+Why? People can edit tweet after clicking the normal button anyway?
+> Because in my project i need my users to edit the tweet to fill some information needed (but optional). Making them edited before they click the button is better to emphasize that they should edit the tweet.
+
 ## Option
 
 To use Twitter DM (direct message) instead of status tweet, simply change the url in the script to the one provided below and add your twitter account user id at 'PUTUSERIDHERE'.
